@@ -99,5 +99,6 @@ set RHOSTS <metasploitable-ip-address>
 Set BLANK_PASSWORDS to true in case there is no password set for the root account.
 set BLANK_PASSWORDS true
 ![alt text](image-6.png)
+
 ## RESULT:
 The Metasploit framework for reconnaissance is  examined successfully
